@@ -7,7 +7,7 @@ export default function Contact() {
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-12">
       <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Contact Us</h1>
-      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify.</p>
+      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">For any questions or query please feel free to contact us.</p>
     </div>
     <div className="lg:w-1/2 md:w-2/3 mx-auto">
       <div className="flex flex-wrap -m-2">
@@ -33,9 +33,9 @@ export default function Contact() {
           <button className="flex mx-auto text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Submit</button>
         </div>
         <div className="p-2 w-full pt-8 mt-8 border-t border-gray-800 text-center">
-          <a className="text-yellow-400">ABCXYZ@Gmail.com</a>
-          <p className="leading-normal my-5">Naya Nazimabad Block B
-            <br/>Nayan Nazimabad, NN 777051
+          <a className="text-yellow-400">contact@novustech.com</a>
+          <p className="leading-normal my-5">Karachi,Pakistan
+            <br/>Karachi,Pakistan 74700
           </p>
           <span className="inline-flex">
             <a className="text-gray-500 hover:text-yellow-500">
